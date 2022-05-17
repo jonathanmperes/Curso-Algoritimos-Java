@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6bc0027-7443-4478-8746-260efcce87ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/algoritimos/TestaOrdenacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/algoritimos/TestaMenorPreco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/algoritimos/TestaMenorPreco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestaOrdenacao">
     <configuration name="TestaMenorPreco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.algoritimos.TestaMenorPreco" />
       <module name="CursoAlgoritimos" />
@@ -52,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestaOrdenacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.algoritimos.TestaOrdenacao" />
+      <module name="CursoAlgoritimos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.algoritimos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaOrdenacao" />
         <item itemvalue="Application.TestaMenorPreco" />
       </list>
     </recent_temporary>
